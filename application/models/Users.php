@@ -14,7 +14,7 @@ class Users extends CI_Model
      */
 
     function debug($obj){
-        $fp = fopen('deubg.txt', 'a');
+        $fp = fopen('/tmp/deubg.txt', 'a');
         fputs($fp, print_r($obj, true)."\n");
         fclose($fp);
     }
