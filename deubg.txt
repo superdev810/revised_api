@@ -1,0 +1,3540 @@
+Array
+(
+    [code] => 1062
+    [message] => Duplicate entry '11111' for key 'email'
+)
+
+Array
+(
+    [code] => 1062
+    [message] => Duplicate entry '11111' for key 'email'
+)
+
+Array
+(
+    [code] => 1062
+    [message] => Duplicate entry '11111' for key 'email'
+)
+
+Array
+(
+    [code] => 1062
+    [message] => Duplicate entry '11111' for key 'email'
+)
+
+Array
+(
+    [code] => 1062
+    [message] => Duplicate entry '11111' for key 'email'
+)
+
+Array
+(
+    [code] => 1062
+    [message] => Duplicate entry '11111' for key 'email'
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 260947  Threads: 1  Questions: 5468  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.020
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 672
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 260967  Threads: 1  Questions: 5472  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.020
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 673
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 260988  Threads: 1  Questions: 5476  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.020
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 674
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 261128  Threads: 1  Questions: 5480  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.020
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 675
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 261261  Threads: 1  Questions: 5484  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.020
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 676
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 261446  Threads: 1  Questions: 5488  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.020
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 677
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 261453  Threads: 1  Questions: 5492  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 678
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 262009  Threads: 1  Questions: 5524  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 683
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 262031  Threads: 1  Questions: 5528  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 684
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 262047  Threads: 1  Questions: 5532  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 685
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 262060  Threads: 1  Questions: 5536  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 686
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 262220  Threads: 1  Questions: 5540  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 687
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 262768  Threads: 1  Questions: 5544  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 688
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 262769  Threads: 1  Questions: 5548  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 689
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 262770  Threads: 1  Questions: 5552  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 690
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 262878  Threads: 1  Questions: 5556  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 691
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 263081  Threads: 1  Questions: 5560  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 692
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 263089  Threads: 1  Questions: 5564  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 693
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 263101  Threads: 1  Questions: 5568  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 694
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 263101  Threads: 1  Questions: 5572  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 695
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+Array
+(
+    [code] => 1064
+    [message] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 11
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 263131  Threads: 1  Questions: 5580  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 697
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 263473  Threads: 1  Questions: 5612  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 702
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+Array
+(
+    [code] => 1064
+    [message] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 11
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 265605  Threads: 1  Questions: 5648  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 708
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 266021  Threads: 1  Questions: 5652  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 709
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 266057  Threads: 1  Questions: 5656  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 710
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 266126  Threads: 1  Questions: 5660  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 711
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+Array
+(
+    [code] => 1064
+    [message] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 11
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 267166  Threads: 1  Questions: 5696  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 717
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 267798  Threads: 1  Questions: 5728  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 722
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 268006  Threads: 1  Questions: 5732  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 723
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 269767  Threads: 1  Questions: 5764  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 728
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 269812  Threads: 1  Questions: 5768  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 729
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 270071  Threads: 1  Questions: 5772  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 730
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 270096  Threads: 1  Questions: 5776  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 731
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 270231  Threads: 1  Questions: 5780  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 732
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 270341  Threads: 1  Questions: 5784  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 733
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 270408  Threads: 1  Questions: 5788  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 734
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 270449  Threads: 1  Questions: 5792  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 735
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 271959  Threads: 1  Questions: 5852  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 744
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 272055  Threads: 1  Questions: 5856  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 745
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 272088  Threads: 1  Questions: 5860  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 746
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 272270  Threads: 1  Questions: 5864  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 747
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 272634  Threads: 1  Questions: 5868  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 748
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 272713  Threads: 1  Questions: 5872  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 749
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 272953  Threads: 1  Questions: 5876  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 750
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 273025  Threads: 1  Questions: 5880  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 751
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 273086  Threads: 1  Questions: 5884  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 752
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 276069  Threads: 1  Questions: 5944  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 761
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 276129  Threads: 1  Questions: 5948  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 762
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 276165  Threads: 1  Questions: 5952  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 763
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 276199  Threads: 1  Questions: 5956  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 764
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 276267  Threads: 1  Questions: 5960  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 765
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 276279  Threads: 1  Questions: 5992  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 770
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 276280  Threads: 1  Questions: 5996  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 771
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 276291  Threads: 1  Questions: 6000  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.021
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 772
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+Array
+(
+    [code] => 1064
+    [message] => You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 11
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 276504  Threads: 1  Questions: 6098  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.022
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 785
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 276703  Threads: 1  Questions: 6162  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.022
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 792
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 278104  Threads: 1  Questions: 6180  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.022
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 795
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 278182  Threads: 1  Questions: 6184  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.022
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 796
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 278214  Threads: 1  Questions: 6188  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.022
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 797
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
+CI_DB_mysqli_result Object
+(
+    [conn_id] => mysqli Object
+        (
+            [affected_rows] => 0
+            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: b396954eeb2d1d9ed7902b8bae237b287f21ad9e $
+            [client_version] => 50012
+            [connect_errno] => 0
+            [connect_error] => 
+            [errno] => 0
+            [error] => 
+            [error_list] => Array
+                (
+                )
+
+            [field_count] => 3
+            [host_info] => localhost via TCP/IP
+            [info] => 
+            [insert_id] => 0
+            [server_info] => 5.5.5-10.1.22-MariaDB
+            [server_version] => 50505
+            [stat] => Uptime: 278300  Threads: 1  Questions: 6192  Slow queries: 0  Opens: 91  Flush tables: 1  Open tables: 60  Queries per second avg: 0.022
+            [sqlstate] => 00000
+            [protocol_version] => 10
+            [thread_id] => 798
+            [warning_count] => 0
+        )
+
+    [result_id] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 3
+            [lengths] => 
+            [num_rows] => 0
+            [type] => 0
+        )
+
+    [result_array] => Array
+        (
+        )
+
+    [result_object] => Array
+        (
+        )
+
+    [custom_result_object] => Array
+        (
+        )
+
+    [current_row] => 0
+    [num_rows] => 
+    [row_data] => 
+)
+
+Array
+(
+)
+
