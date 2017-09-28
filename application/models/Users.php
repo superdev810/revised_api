@@ -41,7 +41,7 @@ class Users extends CI_Model
             $arr["email"]=$result[0]->email;
             $arr["name"]=$result[0]->name;
             $arr["code"]=$result[0]->code;
-            $arr['status'] = 200;
+            $arr['status'] = 'ok';
         } else{
             $arr['status'] = 400;
         }
@@ -69,7 +69,7 @@ class Users extends CI_Model
             if ($query)
             {
                 $id = $this->db->insert_id();
-                $arr['status'] = 200;
+                $arr['status'] = 'ok';
                 $arr['user_id'] = $id;
                 return $arr;
             }
