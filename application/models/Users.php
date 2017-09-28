@@ -32,9 +32,9 @@ class Users extends CI_Model
         $sql_query = "SELECT name, email, code FROM {$this->_db} WHERE email = '".$account['email']."' and password = '".md5($account['password'])."'";
 
         $query = $this->db->query($sql_query);
-        $this->debug($query);
+//        $this->debug($query);
         $result = $query->result();
-        $this->debug($result);
+//        $this->debug($result);
         $arr = array();
 
         if (count($result) != 0){
@@ -75,7 +75,7 @@ class Users extends CI_Model
             }
 
             $error = $this->db->error();
-            $this->debug($error);
+//            $this->debug($error);
             // If an error occurred, $error will now have 'code' and 'message' keys...
             if (isset($error['message'])) {
                 $arr['status'] = 400;

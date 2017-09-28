@@ -19,6 +19,8 @@ class User extends MY_Controller
     }
 
     public function login(){
+        header('Content-Type: application/json');
+
         $json = $this->input->get();
 //        $success_msg = array(
 //            "status"=>"success"
@@ -26,11 +28,13 @@ class User extends MY_Controller
 //        $error_msg = array(
 //            "status"=>"error"
 //        );
-        echo json_encode($this->users->getUser($json));
+        echo json_encode($this->users->getUser($json), JSON_PRETTY_PRINT);
 
     }
 
     public function register(){
+        header('Content-Type: application/json');
+
         $json = $this->input->get();
         $success_msg = array(
             "status"=>"success"
@@ -38,7 +42,7 @@ class User extends MY_Controller
         $error_msg = array(
             "status"=>"error"
         );
-        echo json_encode($this->users->register($json));
+        echo json_encode($this->users->register($json), JSON_PRETTY_PRINT);
         return;
     }
 }
