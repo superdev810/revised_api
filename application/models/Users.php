@@ -43,7 +43,7 @@ class Users extends CI_Model
             $arr["code"]=$result[0]->code;
             $arr['status'] = 'ok';
         } else{
-            $arr['status'] = 400;
+            $arr['status'] = '400';
         }
         return $arr;
     }
@@ -78,7 +78,7 @@ class Users extends CI_Model
 //            $this->debug($error);
             // If an error occurred, $error will now have 'code' and 'message' keys...
             if (isset($error['message'])) {
-                $arr['status'] = 400;
+                $arr['status'] = '400';
                 $arr['msg'] = $error['message'];
                 return $arr;
             }
